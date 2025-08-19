@@ -1,0 +1,25 @@
+{
+    "dataFrequency": 5,
+    "dataLimitWarning": {
+        "spO2": {
+            "min": 60,
+            "max": 100
+        },
+        "temp": {
+            "min": 37.1,
+            "max": 29
+        },
+        "painScale": {
+            "min": 1,
+            "max": 10
+        },
+        "respiration": {
+            "min": 60,
+            "max": 100
+        },
+        "smorkingHsi": {
+            "min": 1,
+            "max": 6
+        }
+    }
+}

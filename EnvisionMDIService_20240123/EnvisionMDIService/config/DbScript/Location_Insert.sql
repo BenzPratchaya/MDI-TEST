@@ -1,0 +1,26 @@
+insert into `mdi_location`
+(
+	`location_id`,
+	`location_uid`,
+	`location_name`,
+	`location_desc`,
+	`is_deleted`,
+	`org_id`,
+	`created_by`,
+	`created_on`,
+	`modified_by`,
+	`modified_on`
+)
+values
+(
+	@LocationId,
+	@LocationUid,
+	@LocationName,
+	@LocationDesc,
+	@isDeleted,
+	@OrganizationId,
+	@ModifiedBy,
+	current_timestamp(),
+	@ModifiedBy,
+	current_timestamp()
+)

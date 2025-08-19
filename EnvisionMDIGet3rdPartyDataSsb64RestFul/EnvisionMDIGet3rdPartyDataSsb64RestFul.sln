@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DLL3rdParty", "DLL3rdParty", "{34C8B085-C4A3-4354-89A0-8D7C7BF95517}"
+	ProjectSection(SolutionItems) = preProject
+		DLL3rdParty\EnvisionIE.Connection.Engine.dll = DLL3rdParty\EnvisionIE.Connection.Engine.dll
+		DLL3rdParty\EnvisionIE.Entity.Global.dll = DLL3rdParty\EnvisionIE.Entity.Global.dll
+		DLL3rdParty\EnvisionIE.Hl7.dll = DLL3rdParty\EnvisionIE.Hl7.dll
+		DLL3rdParty\EnvisionIE.Operational.dll = DLL3rdParty\EnvisionIE.Operational.dll
+		DLL3rdParty\EnvisionIEService.Api.dll = DLL3rdParty\EnvisionIEService.Api.dll
+		DLL3rdParty\EnvisionIEService.Entity.dll = DLL3rdParty\EnvisionIEService.Entity.dll
+		DLL3rdParty\EnvisionIEService.Operational.dll = DLL3rdParty\EnvisionIEService.Operational.dll
+		DLL3rdParty\EnvisionIEService.WebService.dll = DLL3rdParty\EnvisionIEService.WebService.dll
+		DLL3rdParty\Mono.Security.dll = DLL3rdParty\Mono.Security.dll
+		DLL3rdParty\Npgsql.dll = DLL3rdParty\Npgsql.dll
+		DLL3rdParty\Oracle.ManagedDataAccess.dll = DLL3rdParty\Oracle.ManagedDataAccess.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvisionMDIGet3rdPartyData", "EnvisionMDIGet3rdPartyData\EnvisionMDIGet3rdPartyData.csproj", "{F9896913-F40A-41C6-9C1D-A9265FC4E2F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9896913-F40A-41C6-9C1D-A9265FC4E2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9896913-F40A-41C6-9C1D-A9265FC4E2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9896913-F40A-41C6-9C1D-A9265FC4E2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9896913-F40A-41C6-9C1D-A9265FC4E2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FAE536-8FB8-4B23-959C-F53B54D3C379}
+	EndGlobalSection
+EndGlobal

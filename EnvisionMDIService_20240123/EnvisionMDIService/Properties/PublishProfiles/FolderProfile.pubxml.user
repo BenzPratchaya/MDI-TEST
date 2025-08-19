@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\MAT\Deploy\EnvisionMDIService</_PublishTargetUrl>
+    <History>True|2025-06-16T06:54:29.5711944Z||;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EnvisionIE.Connection.Engine.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/EnvisionIE.Entity.Global.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/EnvisionIE.Hl7.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/EnvisionIE.Operational.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/EnvisionIEService.Api.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/EnvisionIEService.Entity.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/EnvisionIEService.Operational.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/EnvisionIEService.WebService.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/EnvisionMDI.Entity.dll">
+      <publishTime>06/16/2025 13:54:26</publishTime>
+    </File>
+    <File Include="bin/EnvisionMDI.Entity.pdb">
+      <publishTime>06/16/2025 13:54:26</publishTime>
+    </File>
+    <File Include="bin/EnvisionMDIService.dll">
+      <publishTime>06/16/2025 13:54:27</publishTime>
+    </File>
+    <File Include="bin/EnvisionMDIService.pdb">
+      <publishTime>06/16/2025 13:54:27</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/18/2022 23:19:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>07/09/2020 04:52:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>12/01/2022 05:29:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>12/01/2022 05:02:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>12/01/2022 05:03:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>12/01/2022 05:10:08</publishTime>
+    </File>
+    <File Include="bin/Mono.Security.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/MySqlConnector.dll">
+      <publishTime>12/19/2022 04:50:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/24/2022 09:10:26</publishTime>
+    </File>
+    <File Include="bin/Npgsql.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/Oracle.ManagedDataAccess.dll">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 21:50:24</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 17:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>10/18/2022 23:19:22</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>12/01/2022 05:00:04</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>05/08/2022 10:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>05/28/2022 06:41:34</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 20:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/23/2021 06:40:18</publishTime>
+    </File>
+    <File Include="bin/System.Text.Encodings.Web.dll">
+      <publishTime>10/18/2022 23:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Text.Json.dll">
+      <publishTime>11/18/2022 23:33:54</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 17:05:18</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>05/15/2018 20:29:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>05/28/2022 06:41:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>05/28/2022 06:41:54</publishTime>
+    </File>
+    <File Include="Config/DbScript/DataLog_SelectByDataId.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectByDataId.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectLastVisitByHn.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectNonConfirmByHn.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectNonConfirmByModalityId.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectNonConfirmByVN.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectSend3rdPartyByDataId.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectSend3rdPartyByPatientVisitId.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectViewByDate.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectViewByDateWithLocationId.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectViewByHn.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_SelectViewByHn_20230609_backup.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_Update.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Data_Update_20220109_backup.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/General_SelectViewByGroup.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Location_Insert.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Location_SelectByUid.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Location_SelectView.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Location_Update.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Modality_Insert.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Modality_SelectByModalityUid.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Modality_SelectView.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Modality_Update.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Organization_SelectById.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Organization_SelectByUid.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Organization_SelectView.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/PatientVisit_Update.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Patient_Insert.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/Patient_SelectByHn.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/SubLocation_Insert.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/SubLocation_SelectView.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/SubLocation_SelectViewByLocationId.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/SubLocation_SelectViewBySubLocationUid.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/SubLocation_Update.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="Config/DbScript/User_SelectLogin.sql">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="global.asax">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/29/2025 16:38:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

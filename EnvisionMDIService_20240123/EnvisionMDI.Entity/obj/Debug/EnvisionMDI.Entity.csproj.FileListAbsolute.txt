@@ -1,0 +1,7 @@
+C:\Users\Pratch\Downloads\MDI_TEST\MDI_TEST\EnvisionMDIService_20240123\EnvisionMDI.Entity\bin\Debug\EnvisionMDI.Entity.dll
+C:\Users\Pratch\Downloads\MDI_TEST\MDI_TEST\EnvisionMDIService_20240123\EnvisionMDI.Entity\bin\Debug\EnvisionMDI.Entity.pdb
+C:\Users\Pratch\Downloads\MDI_TEST\MDI_TEST\EnvisionMDIService_20240123\EnvisionMDI.Entity\bin\Debug\EnvisionIE.Entity.Global.dll
+C:\Users\Pratch\Downloads\MDI_TEST\MDI_TEST\EnvisionMDIService_20240123\EnvisionMDI.Entity\obj\Debug\EnvisionMDI.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Pratch\Downloads\MDI_TEST\MDI_TEST\EnvisionMDIService_20240123\EnvisionMDI.Entity\obj\Debug\EnvisionMDI.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Pratch\Downloads\MDI_TEST\MDI_TEST\EnvisionMDIService_20240123\EnvisionMDI.Entity\obj\Debug\EnvisionMDI.Entity.dll
+C:\Users\Pratch\Downloads\MDI_TEST\MDI_TEST\EnvisionMDIService_20240123\EnvisionMDI.Entity\obj\Debug\EnvisionMDI.Entity.pdb

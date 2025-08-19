@@ -1,0 +1,11 @@
+// const String route = '/envisionmditest';
+const String route = '/envisionmdi';
+const String homeRoute = '$route/home';
+const String mdiInsertPageRoute = '$route/mdiinsert';
+const String configRoute = '$route/config';
+const String modalitySetupRoute = '$route/config/modalitysetup';
+const String locationSetupRoute = '$route/config/locationsetup';
+const String subLocationSetupRoute = '$route/config/sublocationsetup';
+const String logInRoute = '$route/signin';
+const String worklistByLocationRoute = '$route/worklistbylocation';
+const String exportDataRoute = '$route/exportdata';
